@@ -177,4 +177,4 @@ python -m unittest discover -s tests
 
 * **Developer:** Bhautik Gondaliya
 * **Email:** `bhautik613@gmail.com`
-* **Project Link:** [Symptom-to-Disease Predictor](https://github.com/bhautik613/Symptom-to-Disease-Predictor)
+ 
