@@ -67,7 +67,8 @@ logs/
 Thumbs.db
 
 # Generated or local artifacts
-artifacts/
+artifacts/*
+!artifacts/plots/
 *.npy
 *.npz
 *.h5
